@@ -23,7 +23,7 @@ The scraped data is then stored in an **Excel file using OpenPyXL** for easy acc
 1. Clone the repository
 
 ```
-git clone https://github.com/yourusername/amazon-book-scraper.git
+https://github.com/Ameerudeencr7/Web-Scraping-using-selenium.git
 ```
 
 2. Navigate to the project folder
